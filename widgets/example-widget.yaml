@@ -1,0 +1,6 @@
+code: example-widget
+titles:
+  en: Example Widget
+  it: Esempio Widget
+group: free
+customUI: <h2>Hello! We are learning ...
